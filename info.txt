@@ -1,0 +1,58 @@
+tcfrkfctpppppppp                   R    P        PPPPPPPTCFK FCT
+tcfrkf tpppppppp     c             R    P        PPPPPPPTCFK FCT
+tcfrkfctpppppppp                   P            PPP PPPPTCFKRFCT
+tcfrkfctppp pppp           p       P            PPP PPPPTCFKRFCT
+tcfrkfctpppppppp                           P    PPP PPPPTCFKRFCT
+tcfrkfctpppppppp                              P PPPPPP PTCFKRFCT
+tcfrkfctpppppppp                             P  PPPPP PPTCFKRFCT
+tcfrkfct pppppppp                            P  PPPPP PPTCFKRFCT
+tcfrRfct pppppppp                            P  PPPPP PPTCFK FCT
+tcfrkfctpppppppp                             P  PPPPP PPTCFKRFCT
+tcfrkfctpppp ppp    p                        P  PPPPP PPTCFKRFCT
+tcfrkfctpppppppp                    P           PPPP PPPTCFKRFCT
+tcfrkf tpppppppp     c              P           PPPP PPPTCFKRFCT
+tcfrkfctpppppppp                        P        PPPPPPPTCFRKFCT
+tcfrkfctp pppppp p                      P        PPPPPPPTCFRKFCT
+tcfrkfctp pppppp p                      PP        PPPPPPTCFRKFCT
+tc rkfctp ppppppfp                      PP        PPPPPPTCFRKFCT
+tc rkfctp ppppppfp                      PPP        PPPPPTCFRKFCT
+ ctrkfctp ppppppfp                      PPP        PPPPPTCFRKFCT
+t   k  tpppppppp                                PPPPPPPP    T  T
+t   k  tpppppppp                                PPPPPPPP    T  T
+t   k  tpppppppp                                PPPPPPPP    T  T
+t   k  tpppppppp                                PPPPPPPP    T  T
+t   k  tpppppppp                                PPPPPPPP    T  T
+t   k  tpppppppp                                PPPPPPPP    T  T
+t   k  tpppppppp                                PPPPPPPPK   T  T
+t   k  tpppppppp                        P        PPPPPPPT   K  T
+t   k  tpppppppp                                PPPPPPPPK   T  T
+t   k  tpppppppp                                PPPPPPPPT   T  K
+t   k  tpppppppp                                PPPPPPPPT   T  K
+t   k  tpppppppp                                PPPPPPPPK   T  T
+k   t  tpppppppp                                PPPPPPPPK   T  T
+t   k  tpppppppp                                PPPPPPPPT   T  K
+t   t  kpppppppp                                PPPPPPPPT   T  K
+t   k  tpppppppp                                PPPPPPPPT   T  K
+t   k  tpppppppp                                PPPPPPPPK   T  T
+k   t  tpppppppp                                PPPPPPPPK   T  T
+t   k  tpppppppp                                PPPPPPPPT   T  K
+t   t  kpppppppp                                PPPPPPPPT   T  K
+t   k  tpppppppp                                PPPPPPPPT   T  K
+t   t  kpppppppp                                PPPPPPPPT   T  K
+Pcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+Pcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+Pcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+Pcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+Pcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+Pcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+Rcfrkfct ppppppp                                 PPPPPPPTCFRKFCT
+tcfrkfctpppppppp                        P        PPPPPPPTCFRKFCT
+tcfrkfctpppppppp K                              PPPPPPPPTCFR FCT
+tcfrkfctpppppppp         K         P            PPP PPPPTCFR FCT
+tcfrkfct pppppppp        K         P            PPP PPPPTCFR FCT
+tcfrkfct pppppppp                K P            PPP PPPPTCFR FCT
+  frkfctpppppppp                        P        PPPPPPPTCFRKFCT
+ rf kfctpppppppp                        P        PPPPPPPTCFRKFCT
+ rf kfctpppppppp                                PPPPPPPPTCFRKFCT
+tcfrkfct ppppppp        p                       PPPPPPPPTCFRKFCT
+tcfrkfct ppppppp        p                       PPPPPPPPTCFRKFCT

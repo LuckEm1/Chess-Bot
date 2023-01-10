@@ -1,0 +1,22 @@
+﻿  PVE.cpp
+  Simulations.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(523,76): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(522,1): message : see reference to function template instantiation 'std::tuple<float &> &std::tuple<float &>::operator =<int,0>(std::tuple<int> &&) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(524,23): message : see reference to function template instantiation 'std::tuple<float &> &std::tuple<float &>::operator =<int,0>(std::tuple<int> &&) noexcept' being compiled
+C:\Users\lucas\Documents\Programmation\C++\AI_Echecs_Cleanup\src\Gamemodes\Simulations.cpp(634,73): message : see reference to function template instantiation 'std::tuple<int &,float &> &std::tuple<int &,float &>::operator =<int,int,0>(std::tuple<int,int> &&) noexcept' being compiled
+C:\Users\lucas\Documents\Programmation\C++\AI_Echecs_Cleanup\src\Gamemodes\Simulations.cpp(634,40): message : see reference to function template instantiation 'std::tuple<int &,float &> &std::tuple<int &,float &>::operator =<int,int,0>(std::tuple<int,int> &&) noexcept' being compiled
+  Chess_Movement.cpp
+  Init_Chess_Board.cpp
+  PVP.cpp
+  Movement_Managing.cpp
+  txt_managing.cpp
+  Log.cpp
+  MAIN.cpp
+  Generating code
+c:\users\lucas\documents\programmation\c++\ai_echecs_cleanup\src\main.cpp : fatal error C1301: error accessing program database x64\Release\AI_Echecs.ipdb, invalid format, please delete and rebuild
+LINK : fatal error LNK1257: code generation failed
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1257.

@@ -1,0 +1,3 @@
+C:\Programmation\C++\AI_Echecs\x64\Release\AI_Echecs.exe
+C:\Users\lucas\Documents\Programmation\C++\AI_Echecs\x64\Release\AI_Echecs.exe
+C:\Users\lucas\Documents\Programmation\C++\AI_Echecs_Cleanup\x64\Release\AI_Echecs.exe
